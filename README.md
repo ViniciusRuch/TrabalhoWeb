@@ -4,3 +4,5 @@ O projeto sera o desenvolvimento de uma pagina web para a marcenaria Ruch com o 
 a pagina deve ser criada para a utilização em dispositivos moblile já que o publico alvo apenas tera acesso a celulares durante o expediente.
 
 Sera criado os CRUDS: CRUD de estoque e CRUD de pedidos.
+
+Sera utilizado php, html, javaScript,css
