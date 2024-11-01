@@ -6,3 +6,5 @@ a pagina deve ser criada para a utilização em dispositivos moblile já que o p
 Sera criado os CRUDS: CRUD de estoque e CRUD de pedidos.
 
 Sera utilizado php, html, javaScript,css
+
+link dos diagramas :https://drive.google.com/file/d/1wPax6g14XQWu1mih_OoPgSQjyQFSqfmz/view?usp=drive_link
