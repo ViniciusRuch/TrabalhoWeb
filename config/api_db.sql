@@ -18,7 +18,7 @@ CREATE TABLE material(
 );
 CREATE TABLE madeira(
     id INT AUTO_INCREMENT PRIMARY KEY,
-    tipo varchar(100) not null,
+    tipo varchar(100) not null unique,
     quantidade INT not null,
     descricao varchar(100) not null,
     preco float not null ,

@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = '9000:80';
 $db = 'api_db';
 $user = 'root';
 $pass = 'password';
