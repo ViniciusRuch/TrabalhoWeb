@@ -1,0 +1,12 @@
+{
+    "name": "vinicius/vinicius",
+    "require": {
+        "phpunit/phpunit": "^11.4"
+    },
+    "authors": [
+        {
+            "name": "Vinicius Ruch",
+            "email": "viniciusruch@outlook.com"
+        }
+    ]
+}
