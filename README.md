@@ -6,3 +6,6 @@ a pagina deve ser criada para a utilização em dispositivos moblile já que o p
 Sera criado os CRUDS: CRUD de estoque e CRUD de pedidos.
 
 Sera utilizado php, html, javaScript,css
+
+diagramas:
+![CRUDestoque drawio](https://github.com/user-attachments/assets/dafe4805-e742-42b6-a6a7-66efa1e6ef67)
